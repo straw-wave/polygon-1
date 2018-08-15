@@ -7,3 +7,5 @@ This web page has been created for HTML and CSS testing purposes. It was given q
 P.S. The page describes the View of Delft, an oil painting by Johannes Vermeer, a Dutch painter.
 
 This comment has been written in Notepad++!
+
+And one more comment. 
