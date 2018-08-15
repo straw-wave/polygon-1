@@ -9,3 +9,5 @@ P.S. The page describes the View of Delft, an oil painting by Johannes Vermeer, 
 This comment has been written in Notepad++!
 
 And one more comment. 
+
+Aaaand one more. Made in Opera.
